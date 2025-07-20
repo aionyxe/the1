@@ -1,3 +1,20 @@
-{
-	"key":"value"
-}
+[
+  {
+    "name": "Heli",
+    "author": "unsplash",
+    "url": "https://raw.githubusercontent.com/aionyxe/the1/refs/heads/main/wallpapers/bailey-mahon-NJYLizdTYbo-unsplash.jpg",
+    "thumbnail": "https://raw.githubusercontent.com/aionyxe/the1/refs/heads/main/wallpapers/bailey-mahon-NJYLizdTYbo-unsplash-thumb.jpg",
+    "dimensions": "3931x5896",
+    "copyright": "Free",
+    "collections": "assets"
+  },
+  {
+    "name": "Texture",
+    "author": "unsplash",
+    "url": "https://raw.githubusercontent.com/aionyxe/the1/refs/heads/main/wallpapers/pawel-czerwinski-1-unsplash.jpg",
+    "thumbnail": "https://raw.githubusercontent.com/aionyxe/the1/refs/heads/main/wallpapers/pawel-czerwinski-1-unsplash-thumb.jpg",
+    "dimensions": "3240x2160",
+    "copyright": "Free",
+    "collections": "assets"
+  }
+]
