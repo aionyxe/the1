@@ -1,6 +1,6 @@
 [
   {
-    "name": "Wa",
+    "name": "bailey-mahon",
     "author": "Bailey Mahon",
     "url": "https://raw.githubusercontent.com/aionyxe/the1/refs/heads/main/wallpapers/bailey-mahon-NJYLizdTYbo-unsplash.jpg",
     "thumbnail": "https://raw.githubusercontent.com/aionyxe/the1/refs/heads/main/wallpapers/bailey-mahon-NJYLizdTYbo-unsplash-thumb.jpg",
@@ -9,11 +9,20 @@
     "collections": "assets"
   },
   {
-    "name": "Wb",
+    "name": "bills",
     "author": "unsplash",
     "url": "https://raw.githubusercontent.com/aionyxe/the1/refs/heads/main/wallpapers/bills.jpg",
     "thumbnail": "https://raw.githubusercontent.com/aionyxe/the1/refs/heads/main/wallpapers/bills-thumb.jpg",
     "dimensions": "1974x1481",
+    "copyright": "Free",
+    "collections": "assets"
+  },
+  {
+    "name": "courjault-thomas",
+    "author": "Courjault Thomas",
+    "url": "https://raw.githubusercontent.com/aionyxe/the1/refs/heads/main/wallpapers/courjault-thomas-unsplash.jpg",
+    "thumbnail": "https://raw.githubusercontent.com/aionyxe/the1/refs/heads/main/wallpapers/courjault-thomas-unsplash-thumb.jpg",
+    "dimensions": "3429x5144",
     "copyright": "Free",
     "collections": "assets"
   }
