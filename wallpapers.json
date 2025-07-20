@@ -16,13 +16,5 @@
     "dimensions": "1974x1481",
     "copyright": "Free",
     "collections": "assets"
-  },
-  {
-    "name": "W3",
-    "author": "Courjault Thomas",
-    "url": "https://raw.githubusercontent.com/aionyxe/the1/refs/heads/main/wallpapers/courjault-thomas-unsplash.jpg",
-    "thumbnail": "https://raw.githubusercontent.com/aionyxe/the1/refs/heads/main/wallpapers/courjault-thomas-unsplash-thumb.jpg",
-    "dimensions": "3429x5144",
-    "copyright": "Free",
-    "collections": "assets"
-  }]
+  }
+]
