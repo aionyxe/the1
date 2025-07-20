@@ -1,6 +1,6 @@
 [
   {
-    "name": "BaileyMahon",
+    "name": "1",
     "author": "Bailey Mahon",
     "url": "https://raw.githubusercontent.com/aionyxe/the1/refs/heads/main/wallpapers/bailey-mahon-NJYLizdTYbo-unsplash.jpg",
     "thumbnail": "https://raw.githubusercontent.com/aionyxe/the1/refs/heads/main/wallpapers/bailey-mahon-NJYLizdTYbo-unsplash-thumb.jpg",
@@ -9,8 +9,8 @@
     "collections": "assets"
   },
   {
-    "name": "bills",
-    "author": "unsplash",
+    "name": "2",
+    "author": "Bills",
     "url": "https://raw.githubusercontent.com/aionyxe/the1/refs/heads/main/wallpapers/bills.jpg",
     "thumbnail": "https://raw.githubusercontent.com/aionyxe/the1/refs/heads/main/wallpapers/bills-thumb.jpg",
     "dimensions": "1974x1481",
@@ -18,7 +18,7 @@
     "collections": "assets"
   },
   {
-    "name": "courjault-thomas",
+    "name": "3",
     "author": "Courjault Thomas",
     "url": "https://raw.githubusercontent.com/aionyxe/the1/refs/heads/main/wallpapers/courjault-thomas-unsplash.jpg",
     "thumbnail": "https://raw.githubusercontent.com/aionyxe/the1/refs/heads/main/wallpapers/courjault-thomas-unsplash-thumb.jpg",
@@ -163,7 +163,7 @@
   },
   {
     "name": "wallhaven-3qk389",
-    "author": "unsplash",
+    "author": "Wallhaven",
     "url": "https://raw.githubusercontent.com/aionyxe/the1/refs/heads/main/wallpapers/wallhaven-3qk389.jpg",
     "thumbnail": "https://raw.githubusercontent.com/aionyxe/the1/refs/heads/main/wallpapers/wallhaven-3qk389-thumb.jpg",
     "dimensions": "3840x2160",
@@ -172,7 +172,7 @@
   },
   {
     "name": "wallhaven-gpr65q",
-    "author": "unsplash",
+    "author": "Wallhaven",
     "url": "https://raw.githubusercontent.com/aionyxe/the1/refs/heads/main/wallpapers/wallhaven-gpr65q.jpg",
     "thumbnail": "https://raw.githubusercontent.com/aionyxe/the1/refs/heads/main/wallpapers/wallhaven-gpr65q-thumb.jpg",
     "dimensions": "5120x2880",
