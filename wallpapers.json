@@ -1,9 +1,9 @@
 [
   {
     "name": "1",
-    "author": "Bailey Mahon",
-    "url": "https://raw.githubusercontent.com/aionyxe/the1/refs/heads/main/wallpapers/bailey-mahon-NJYLizdTYbo-unsplash.jpg",
-    "thumbnail": "https://raw.githubusercontent.com/aionyxe/the1/refs/heads/main/wallpapers/bailey-mahon-NJYLizdTYbo-unsplash-thumb.jpg",
+    "author": "Aionyxe",
+    "url": "https://raw.githubusercontent.com/aionyxe/the1/refs/heads/main/wallpapers/the1.jpg",
+    "thumbnail": "https://raw.githubusercontent.com/aionyxe/the1/refs/heads/main/wallpapers/the1-thumb.jpg",
     "dimensions": "3931x5896",
     "copyright": "Free",
     "collections": "assets"
@@ -203,6 +203,15 @@
     "url": "https://raw.githubusercontent.com/aionyxe/the1/refs/heads/main/wallpapers/philip-oroni-unsplash.jpg",
     "thumbnail": "https://raw.githubusercontent.com/aionyxe/the1/refs/heads/main/wallpapers/philip-oroni-unsplash-thumb.jpg",
     "dimensions": "3840x2160",
+    "copyright": "Free",
+    "collections": "assets"
+  },
+  {
+    "name": "24",
+    "author": "Bailey Mahon",
+    "url": "https://raw.githubusercontent.com/aionyxe/the1/refs/heads/main/wallpapers/bailey-mahon-NJYLizdTYbo-unsplash.jpg",
+    "thumbnail": "https://raw.githubusercontent.com/aionyxe/the1/refs/heads/main/wallpapers/bailey-mahon-NJYLizdTYbo-unsplash-thumb.jpg",
+    "dimensions": "3931x5896",
     "copyright": "Free",
     "collections": "assets"
   }
